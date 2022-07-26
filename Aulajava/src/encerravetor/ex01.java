@@ -24,8 +24,8 @@ public class ex01 {
 			
 		}
 		System.out.println("Soma total: "+acumulador);
-		System.out.println("Numeros negativos"+numN);
-		System.out.println("A soma dos numeros positivos: "+numP);
+		System.out.println("Numeros negativos: "+numN);
+		System.out.println("A soma dos numeros positivos: " +numP);
 	}
 
 }
